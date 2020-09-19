@@ -1,0 +1,1 @@
+powershell .\resetExplorer.ps1
